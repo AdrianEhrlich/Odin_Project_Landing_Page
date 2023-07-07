@@ -10,13 +10,13 @@ body {
     flex-direction: column;
     background-color: #1F2937;
     color: white;
-    justify-content: space-between;
     flex: 1 1 auto;
     max-width: 750px;
 }
 
 .top-menu-container {
     display: flex;
+    justify-content: space-between;
 }
 
 .header-logo {
