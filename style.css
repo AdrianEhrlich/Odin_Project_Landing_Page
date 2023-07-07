@@ -42,8 +42,34 @@ a:link, a:visited {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-  }
+}
 a:hover, a:active {
     background-color: #1F2937;
     color: #c0c0c0;
-  }
+}
+
+.hero-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.hero-left-box {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    flex-wrap: wrap;
+}
+
+.hero-main-text {
+    margin-left: 80px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-size: 24px;
+}
+
+.hero-secondary-text {
+    margin-left: 80px;
+    margin-top: 0px;
+    font-size: 12px;
+}
+
