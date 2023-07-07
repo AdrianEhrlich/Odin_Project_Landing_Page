@@ -51,6 +51,7 @@ a:hover, a:active {
 .hero-container {
     display: flex;
     flex-direction: row;
+    margin-bottom: 100px;
 }
 
 .hero-left-box {
@@ -61,8 +62,8 @@ a:hover, a:active {
 }
 
 .hero-main-text {
-    margin-left: 80px;
     margin-top: 50px;
+    margin-left: 80px;
     margin-bottom: 0px;
     font-size: 20px;
 }
@@ -72,5 +73,12 @@ a:hover, a:active {
     margin-top: 0px;
     font-size: 10px;
     color: #c0c0c0;
+}
+
+.header-image {
+    height: 200px;
+    width: 800px;
+    margin-top: 50px;
+    margin-right: 100px;
 }
 
