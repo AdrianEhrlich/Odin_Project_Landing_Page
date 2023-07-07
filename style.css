@@ -2,6 +2,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: 'Roboto';
 }
 
 .header {
@@ -27,13 +28,13 @@ body {
 }
 
 a:link, a:visited {
-    background-color: #000000;
+    background-color: #1F2937;
     color: #c0c0c0;
     text-align: center;
     text-decoration: none;
     display: inline-block;
   }
 a:hover, a:active {
-    background-color: rgba(0, 47, 96, 0.518);
+    background-color: #1F2937;
     color: #c0c0c0;
   }
