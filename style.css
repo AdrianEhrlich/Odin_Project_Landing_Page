@@ -11,7 +11,7 @@ body {
     color: white;
     justify-content: space-between;
     flex: 1 1 auto;
-    max-width: 800px;
+    max-width: 750px;
 }
 
 .header-logo {
