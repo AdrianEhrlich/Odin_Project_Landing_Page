@@ -84,6 +84,8 @@ a:hover, a:active {
     width: 75px;
     padding: 5px;
     border-radius: 10px;
+    border-color: #3882F6;
+    border: none;
 }
 
 .header-image {
