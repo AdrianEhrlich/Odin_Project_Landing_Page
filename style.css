@@ -110,3 +110,7 @@ a:hover, a:active {
     font-weight: 900;
 }
 
+.second-row-images-container {
+    display: flex;
+}
+
