@@ -104,3 +104,8 @@ a:hover, a:active {
     flex-direction: column;
 }
 
+.second-row-title {
+    font-size: 36px;
+    font-weight: 900;
+}
+
