@@ -77,8 +77,9 @@ a:hover, a:active {
     color: #c0c0c0;
 }
 
-.sign-up {
-    
+#sign-up {
+    background-color: #3882F6;
+    color: #F9FAF8;
 }
 
 .header-image {
