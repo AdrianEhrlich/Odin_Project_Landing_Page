@@ -80,6 +80,10 @@ a:hover, a:active {
 .sign-up {
     background-color: #3882F6;
     color: #F9FAF8;
+    margin-left: 80px;
+    width: 75px;
+    padding: 5px;
+    border-radius: 10px;
 }
 
 .header-image {
