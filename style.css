@@ -124,3 +124,10 @@ a:hover, a:active {
     border-radius: 30px;
 }
 
+.img-text {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 300;
+    color: #4c4c4c;
+}
+
