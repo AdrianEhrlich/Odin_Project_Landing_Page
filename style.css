@@ -134,7 +134,15 @@ a:hover, a:active {
 
 .third-row {
     display: flex;
-    flex-direction: column;
     background-color: #E5E7EB;
 }
 
+.testimonials-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.testimonials {
+    display: flex;
+    flex-direction: column;
+}
