@@ -112,6 +112,7 @@ a:hover, a:active {
 
 .second-box-images-container {
     display: flex;
+    flex-direction: row;
 }
 
 .scnd-box-images {
