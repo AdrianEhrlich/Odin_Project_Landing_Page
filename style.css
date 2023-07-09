@@ -100,7 +100,7 @@ a:hover, a:active {
     padding-left: 20px;
 }
 
-.second-row-container {
+.second-box {
     display: flex;
     flex-direction: column;
 }
