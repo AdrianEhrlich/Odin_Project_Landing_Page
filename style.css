@@ -176,16 +176,35 @@ a:hover, a:active {
     flex-direction: row;
     margin-left: 400px;
     margin-right: 400px;
-    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.call2action-left-box {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    flex-wrap: wrap;
+    align-items: start;
 }
 
 .call2action-title {
     color: white;
     margin-bottom: 0px;
-    justify-content: flex-start;
+    text-align: left;
 }
 
 .call2action-subtext {
     color: white;
-    justify-content: flex-end;
+    text-align: left;
+}
+
+.sign-up-button-2 {
+    color: #F9FAF8;
+
+    width: 300px;
+    height: 40px;
+    padding: 5px;
+    border-radius: 7px;
+    border-color: #3882F6;
+    border: none;
 }
