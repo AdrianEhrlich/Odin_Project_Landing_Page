@@ -173,6 +173,19 @@ a:hover, a:active {
 
 .call-to-action-container {
     display: flex;
+    flex-direction: row;
     margin-left: 400px;
     margin-right: 400px;
+    align-items: flex-start;
+}
+
+.call2action-title {
+    color: white;
+    margin-bottom: 0px;
+    justify-content: flex-start;
+}
+
+.call2action-subtext {
+    color: white;
+    justify-content: flex-end;
 }
