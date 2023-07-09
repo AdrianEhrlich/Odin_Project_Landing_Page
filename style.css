@@ -114,3 +114,11 @@ a:hover, a:active {
     display: flex;
 }
 
+.scnd-box-images {
+    height: 300px;
+    width: 250px;
+    margin: 20px;
+    border-radius: 50px;
+    border-color: #3882F6;
+}
+
