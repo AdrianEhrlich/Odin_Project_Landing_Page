@@ -13,7 +13,7 @@ body {
     background-color: #1F2937;
     color: white;
     flex: 1 1 auto;
-    max-width: 1200px;
+    max-width: 1250px;
 }
 
 .top-menu-container {
@@ -136,6 +136,7 @@ a:hover, a:active {
     display: flex;
     background-color: #E5E7EB;
     max-width: 1200px;
+    margin-top: 100px;
 }
 
 .testimonials-container {
@@ -148,8 +149,17 @@ a:hover, a:active {
     flex-direction: column;
     margin-left: 200px;
     margin-right: 200px;
+    vertical-align: middle;
+    padding: 50px;
 }
 
-.testimonial .{
-    
+.testimonial {
+    font-style: italic;
+    font-weight: 300;
+    font-size: 36px;
+}
+
+.testimonial-author {
+    text-align: right;
+    font-size: 24px;
 }
