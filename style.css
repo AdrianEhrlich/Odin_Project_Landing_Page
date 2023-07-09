@@ -135,6 +135,7 @@ a:hover, a:active {
 .third-row {
     display: flex;
     background-color: #E5E7EB;
+    max-width: 1200px;
 }
 
 .testimonials-container {
@@ -145,4 +146,10 @@ a:hover, a:active {
 .testimonials {
     display: flex;
     flex-direction: column;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.testimonial .{
+    
 }
