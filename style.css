@@ -163,3 +163,16 @@ a:hover, a:active {
     text-align: right;
     font-size: 24px;
 }
+
+.fourth-row {
+    display: flex;
+    background-color: #3882F6;
+    max-width: 1000px;
+    margin-top: 100px;
+}
+
+.call-to-action-container {
+    display: flex;
+    margin-left: 400px;
+    margin-right: 400px;
+}
