@@ -132,3 +132,9 @@ a:hover, a:active {
     color: #4c4c4c;
 }
 
+.third-row {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+}
+
