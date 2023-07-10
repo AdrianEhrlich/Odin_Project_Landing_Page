@@ -165,16 +165,47 @@ a:hover, a:active {
     background-color: #3882F6;
     color: white;
     max-width: 1200px;
+    margin-top: 100px;
+    border-radius: 20px;
 }
 
 .fourth-row-text {
     display: flex;
     flex-direction: column;
+    padding: 50px;
+    justify-content: center;
+    vertical-align: middle;
+    height: 10px;
+    margin-left: 100px;
+}
+
+.fourth-row-title {
+    font-size: 24px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.fourth-row-subtitle {
+    font-weight: 300;
+    margin-top: 0px;
+    padding-top: 0px;
 }
 
 .second-button-container {
     display: flex;
     align-items: center;
-    
+    margin-right: 100px;
+    padding: 50px;
+}
+
+.second-sign-up-button {
+    font-weight: bold;
+    background-color: transparent;
+    color: #ffffff;
+    width: 120px;
+    padding: 10px;
+    border-radius: 7px;
+    border-color: #ffffff;
+    border-style: solid;
 }
 
