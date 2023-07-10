@@ -4,6 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: 'Roboto', sans-serif;
+    min-height: 100vh;
 }
 
 #page-container {
@@ -11,7 +12,6 @@ body {
     flex-direction: column;
     justify-content: center;
     position: relative;
-    min-height: 100vh;
 }
 
 #content-wrap {
@@ -215,7 +215,7 @@ a:hover, a:active {
     display: flex;
     align-items: center;
     margin-right: 100px;
-    padding: 50px;
+    padding: 100px;
 }
 
 .second-sign-up-button {
@@ -235,10 +235,14 @@ a:hover, a:active {
     color: white;
     margin-top: 100px;
     max-width: 1400px;
+    height: 100px;
+
 }
 
 .footer-text {
     display: flex;
+    vertical-align: middle;
+    justify-content: center;
 }
 
 .Copyright {
@@ -246,5 +250,6 @@ a:hover, a:active {
     font-weight: 300;
     margin-left: 600px;
     margin-right: 500px;
+    vertical-align: middle;
 }
 
