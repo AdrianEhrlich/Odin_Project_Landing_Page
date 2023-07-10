@@ -162,7 +162,8 @@ a:hover, a:active {
 .fourth-row {
     display: flex;
     flex-direction: row;
-    background-color: #1F2937;
+    background-color: #3882F6;
     color: white;
-    max-width: 1400px;
+    max-width: 1200px;
 }
+
