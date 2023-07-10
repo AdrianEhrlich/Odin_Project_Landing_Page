@@ -6,6 +6,18 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+#page-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    min-height: 100vh;
+}
+
+#content-wrap {
+    padding-bottom: 100px;
+}
+
 .header {
     display: flex;
     flex-direction: column;
@@ -111,6 +123,7 @@ a:hover, a:active {
 .second-box-images-container {
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 .scnd-box-images {
@@ -159,9 +172,16 @@ a:hover, a:active {
     font-size: 24px;
 }
 
-.fourth-row {
+#fourth-row {
     display: flex;
-    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#fourth-row-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #3882F6;
     color: white;
     max-width: 1200px;
